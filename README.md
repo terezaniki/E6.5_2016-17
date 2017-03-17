@@ -14,6 +14,6 @@
 5. Όταν ολοκληρώσετε, υποβάλετε ένα pull request στον αρχικό δημιουργό από όπου κάνατε το fork (eap-pls50).  
 
 Αν θέλετε, μπορείτε (προαιρετικά) να επεξεργαστείτε περαιτέρω το αρχείο προσθέτοντας εικόνα, δεσμούς, κ.λπ. προτού υποβάλετε το pull request.    
-Οδηγίες για το πώς μορφοποιούμε τα αρχεία θα βρείτε εδώ [Markdown] (https://help.github.com/articles/basic-writing-and-formatting-syntax/) 
+Οδηγίες για το πώς μορφοποιούμε τα αρχεία θα βρείτε εδώ [Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/) 
 
 :point_right:Καλή επιτυχία!  
